@@ -57,10 +57,3 @@ $ python manage.py runserver
 
 ![ER](https://raw.githubusercontent.com/radonintro1234/django-learning-management-system/master/screenshots/2022-04-22_11-58-18-957_hwgAvOaf6J.png)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
