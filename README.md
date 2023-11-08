@@ -36,7 +36,7 @@ standardized thus, we are implementing LMS.
 ## Installation
 
 ```bash
-$ git clone https://github.com/radonintro1234/django-learning-management-system.git
+$ git clone https://github.com/radonintro1234/django-learning-management-system.git](https://github.com/Premshelavale/AZUREPROJECT.git
 
 $ cd django-learning-management-system
 
